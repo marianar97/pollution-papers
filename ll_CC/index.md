@@ -1,10 +1,13 @@
-# Big Data & Data Analytics research team EAFIT 2019
+# It works! ;-)
 
 
-## Introduction
+## Section 1
 
-This wiki aims to compile summaries of papers that use State of the Art techniques to predict pollution in cities.
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
 
 
-## About us
-The research team of Universidad EAFIT in Big Data & Data Analytics is currently doing a research in predicting pollution in Medellín city and finding the main factors that affect contamination
+## Section 2
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+
+Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
